@@ -1,4 +1,4 @@
-name: learn-env
+name: learn-env2
 channels:
   - defaults
 dependencies:
